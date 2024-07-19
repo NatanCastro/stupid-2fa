@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 authors = ["Natan Castro <castro.natan@outlook.com>"]
 description = "A simple way to authenticate client app without cloud"
-lincense = "MIT"
+license = "MIT"
 
 [dependencies]
 base64 = "0.22.1"
